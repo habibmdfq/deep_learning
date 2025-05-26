@@ -1,4 +1,4 @@
-# Unstructured Data
+# Deep Unsupervised Learning
 
 Teknik-teknik deep supervised learning menggunakan pytorch dan jcopdl. Sumber materi: [WiraDKP](https://github.com/WiraDKP/deep_learning)
 
@@ -6,7 +6,7 @@ Teknik-teknik deep supervised learning menggunakan pytorch dan jcopdl. Sumber ma
 
 - Jalankan command ini untuk menginstall environment `jcopml`
   ```
-  conda env create -f env_jcop_ud.yml
+  conda env create -f env_jcopdl.yml
   ```
 - Jalankan command berikut untuk mengecek instalasi
   ```
