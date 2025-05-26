@@ -4,7 +4,7 @@ Teknik-teknik deep supervised learning menggunakan pytorch dan jcopdl. Sumber ma
 
 ## Instalasi Environment
 
-- Jalankan command ini untuk menginstall environment `jcopml`
+- Jalankan command ini untuk menginstall environment
   ```
   conda env create -f env_jcopdl.yml
   ```
